@@ -18,6 +18,7 @@ public class Simulator {
 	private Duration T_ARRIVAL = Duration.ofMinutes(5); // intervallo tra i pazienti
 
 	private final Duration DURATION_TRIAGE = Duration.ofMinutes(5);
+	;
 	
 	private final Duration DURATION_WHITE = Duration.ofMinutes(10);
 	private final Duration DURATION_YELLOW = Duration.ofMinutes(15);
